@@ -1,0 +1,8 @@
+name: MagicTerrain
+main: com.elmakers.mine.bukkit.magicworlds.MagicTerrainPlugin
+version: ${project.version}
+website: http://mine.elmakers.com
+author: NathanWolf
+description : An add-on to MagicWorlds for real terrain generation.
+depend: [MagicWorlds]
+load: startup
