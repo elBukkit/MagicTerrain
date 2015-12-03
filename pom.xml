@@ -4,7 +4,7 @@
 	<groupId>com.elmakers.mine.bukkit.plugins</groupId>
 	<artifactId>MagicTerrain</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>elMakers - Bukkit Plugins : Magic Terrain</name>
+	<name>Magic Terrain</name>
 	<url>http://mine.elmakers.com</url>
 	<dependencyManagement>
 		<dependencies>
